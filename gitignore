@@ -1,3 +1,6 @@
 dbdata/
 node_modules/
 .history/
+# JetBrains Rider
+*.sln.iml
+*.idea
