@@ -4,3 +4,4 @@ node_modules/
 # JetBrains Rider
 *.sln.iml
 *.idea
+*.node_modules/
