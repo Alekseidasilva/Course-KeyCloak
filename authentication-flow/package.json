@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "authorization-code": "nodemon --exec ts-node-esm ./Authorization-code-flow/src/index.ts"
+    "authorization-code": "nodemon --exec ts-node-esm ./Authorization-code-flow/src/index.ts",
+    "implicit:cd implicit-flow && npm run dev"
   },
   "keywords": [],
   "author": "",
